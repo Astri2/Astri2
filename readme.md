@@ -1,4 +1,4 @@
-* 👋 Hi, I'm Malo Thiébaud (but you can call me Astri), a French 17 years old guy
+* 👋 Hi, I'm Malo Thiebaud (but you can call me Astri), a French 17 years old guy
 * 📚 I'm currently in an engineer preparation class in the Esir at Rennes, France
 * ❤ I'm passionated by video games, programmation and science in general
 * 💻 My main programming language is currently Java, but I've done C++ in the past and I'm learning python 
